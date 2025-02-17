@@ -1,8 +1,0 @@
-Flask==2.0.2
-mysql-connector-python==8.0.23
-pytesseract==0.3.8
-fuzzywuzzy==0.18.0
-Pillow==8.4.0
-flask-mysql==1.5.1
-gunicorn==20.1.0
-python-dotenv==0.19.2
